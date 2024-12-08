@@ -1,0 +1,11 @@
+{
+  "name": "remix-raw",
+  "version": "1.0.0",
+  "private": true,
+  "sideEffects": false,
+  "type": "module",
+  "scripts": {},
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
